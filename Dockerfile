@@ -3,7 +3,7 @@
 #
 
 FROM java:8-jre-alpine
-MAINTAINER kev <noreply@easypi.pro>
+MAINTAINER Luca Mattivi <luca@smartdomotik.com>
 
 ENV OR_VERSION 2.8
 ENV OR_FILE openrefine-linux-${OR_VERSION}.tar.gz
